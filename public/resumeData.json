@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Navin Kodam",
+    "occupation": "Freelancer",
+    "description": "I eat, sleep and breathe React",
+    "image": "my-profile.jpeg",
+    "bio": "Hi there! I am Navin! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me for collaboration!",
+    "email": "navinkodam11@gmail.com",
+    "phone": "+91 7249541282",
+    "address": {
+      "street": "168 AREA 4",
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "zip": "413006"
+    },
+    "website": "",
+    "resumedownload": "/sample-resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/navin.kodam.125/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/navin-kodam-bb37781ab/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/navinkodam01/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/navin089",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Solapur University - SOLAPUR",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "June 2022",
+        "description": "Graduating.."
+      }
+    ],
+    "work": [
+      {
+        "company": "Earth Solution",
+        "title": "Intern as Frontend developer",
+        "years": "Mar 2021 - Present",
+        "description": "Building frontend for a project called gogotrux cab booking system."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "69%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone(React JS)",
+        "category": "",
+        "image": "netflix-page.png",
+        "url": "https://github.com/navin089/netflix-clone"
+      },
+      {
+        "title": "Google Search Clone (React JS)",
+        "category": "",
+        "image": "google-page.png",
+        "url": "https://github.com/navin089/google-search"
+      },
+      {
+        "title": "Amazon Landing Page (React JS)",
+        "category": "",
+        "image": "amazon-page.png",
+        "url": "https://github.com/navin089/amazon-build"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "here is the testimonial should be made",
+        "user": "ABC"
+      },
+      {
+        "text": "the demo testimonial should be made 2!",
+        "user": "XYZ"
+      }
+    ]
+  }
+}
